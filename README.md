@@ -1,2 +1,3 @@
 # Bookshelf-About-Python
-Python资料整理归档
+## Your Guide to the CPython Source Code
+https://realpython.com/cpython-source-code-guide/
