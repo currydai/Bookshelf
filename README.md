@@ -5,7 +5,7 @@
 - 链接：https://realpython.com/cpython-source-code-guide/
 ### 2.The Hitchhiker’s Guide to Python
 - 链接：https://pythonguidecn.readthedocs.io/zh/latest/
-### 3.Python风格指南(GooGle)
+### 3.Python风格指南(Google)
 - 链接：https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/
 
 ## Algorithm
