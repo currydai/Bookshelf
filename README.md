@@ -39,4 +39,11 @@
 ### 9.PyTorch与深度学习
 - 链接：https://pan.baidu.com/s/1ndXdBQ1IFotTkgOXGczxBw
 
+## Database
+### 1.（Teach Yourself SQL in 10 Minutes）MySQL必知必会
+### 2. MySQL技术内幕——InnoDB存储引擎
+### 3. Redis设计与实现
+### 3. 高性能MySQL（第3版）
+
+
 
