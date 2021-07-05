@@ -41,9 +41,12 @@
 
 ## Database
 ### 1.（Teach Yourself SQL in 10 Minutes）MySQL必知必会
+- 链接：https://pan.baidu.com/s/1xGaVaDVIY9hKHZEL_vmJrg
 ### 2. MySQL技术内幕——InnoDB存储引擎
+- 链接：https://pan.baidu.com/s/1K6vRTDjc4vCREEwqvx-w3A 
 ### 3. Redis设计与实现
 ### 3. 高性能MySQL（第3版）
+- 链接：https://pan.baidu.com/s/1Jiu_ixWtf64TUguk6Q5OSQ 
 
 
 
